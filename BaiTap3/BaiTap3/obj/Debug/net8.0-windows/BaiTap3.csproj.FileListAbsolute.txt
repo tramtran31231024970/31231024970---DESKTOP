@@ -1,0 +1,16 @@
+D:\BaiTap3\BaiTap3\bin\Debug\net8.0-windows\BaiTap3.exe
+D:\BaiTap3\BaiTap3\bin\Debug\net8.0-windows\BaiTap3.deps.json
+D:\BaiTap3\BaiTap3\bin\Debug\net8.0-windows\BaiTap3.runtimeconfig.json
+D:\BaiTap3\BaiTap3\bin\Debug\net8.0-windows\BaiTap3.dll
+D:\BaiTap3\BaiTap3\bin\Debug\net8.0-windows\BaiTap3.pdb
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.Form1.resources
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.csproj.GenerateResource.cache
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.AssemblyInfoInputs.cache
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.AssemblyInfo.cs
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.csproj.CoreCompileInputs.cache
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.dll
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\refint\BaiTap3.dll
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.pdb
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\BaiTap3.genruntimeconfig.cache
+D:\BaiTap3\BaiTap3\obj\Debug\net8.0-windows\ref\BaiTap3.dll

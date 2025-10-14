@@ -1,0 +1,16 @@
+D:\BaiTap4\BaiTap4\bin\Debug\net8.0-windows\BaiTap4.exe
+D:\BaiTap4\BaiTap4\bin\Debug\net8.0-windows\BaiTap4.deps.json
+D:\BaiTap4\BaiTap4\bin\Debug\net8.0-windows\BaiTap4.runtimeconfig.json
+D:\BaiTap4\BaiTap4\bin\Debug\net8.0-windows\BaiTap4.dll
+D:\BaiTap4\BaiTap4\bin\Debug\net8.0-windows\BaiTap4.pdb
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.Form1.resources
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.csproj.GenerateResource.cache
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.AssemblyInfoInputs.cache
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.AssemblyInfo.cs
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.csproj.CoreCompileInputs.cache
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.dll
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\refint\BaiTap4.dll
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.pdb
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\BaiTap4.genruntimeconfig.cache
+D:\BaiTap4\BaiTap4\obj\Debug\net8.0-windows\ref\BaiTap4.dll
