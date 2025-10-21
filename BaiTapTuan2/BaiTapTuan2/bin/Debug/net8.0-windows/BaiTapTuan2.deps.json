@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaiTapTuan2/1.0.0": {
+        "runtime": {
+          "BaiTapTuan2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapTuan2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
