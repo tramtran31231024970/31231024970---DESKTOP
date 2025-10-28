@@ -1,0 +1,41 @@
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.exe
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.deps.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.runtimeconfig.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.EmployeeForm.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.FormMain.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.InvoiceForm.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.LoginForm.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.ProductForm.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.csproj.GenerateResource.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.AssemblyInfoInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.AssemblyInfo.cs
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.csproj.CoreCompileInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\refint\BT tuần 3.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.genruntimeconfig.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 3\obj\Debug\net8.0-windows\ref\BT tuần 3.dll
+D:\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.exe
+D:\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.deps.json
+D:\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.runtimeconfig.json
+D:\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.dll
+D:\BT tuần 3\bin\Debug\net8.0-windows\BT tuần 3.pdb
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.EmployeeForm.resources
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.FormMain.resources
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.InvoiceForm.resources
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.LoginForm.resources
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.ProductForm.resources
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.csproj.GenerateResource.cache
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.AssemblyInfoInputs.cache
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.AssemblyInfo.cs
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.csproj.CoreCompileInputs.cache
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.dll
+D:\BT tuần 3\obj\Debug\net8.0-windows\refint\BT tuần 3.dll
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.pdb
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT tuần 3.genruntimeconfig.cache
+D:\BT tuần 3\obj\Debug\net8.0-windows\ref\BT tuần 3.dll
+D:\BT tuần 3\obj\Debug\net8.0-windows\BT_tuần_3.Properties.Resources.resources
